@@ -1,0 +1,2 @@
+# static-page
+✨Static Page✨
